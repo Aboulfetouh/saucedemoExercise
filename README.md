@@ -25,10 +25,10 @@ The test follows the **Page Object Model (POM)** approach for better **scalabili
   - Ensure exactly **two** products are in the cart  
   - Validate **product names** in the cart  
 - 📦 **Proceeding to checkout**  
+- 🏁 **Completing the purchase**
 - ✅ **Checkout Page Assertions**:  
   - Validate purchase **success message**  
   - Ensure **order confirmation text** is displayed  
-- 🏁 **Completing the purchase**
 - 📸 **Screenshot capturing** after each test execution  
 - 🏗️ **CI/CD Pipeline Integration** with GitHub Actions 
 
