@@ -1,0 +1,13 @@
+{
+  "url": "https://www.saucedemo.com/",
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "expectedProductShirt": "Sauce Labs Backpack",
+  "expectedProductJacket": "Sauce Labs Fleece Jacket",
+  "checkout": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "postalCode": "12345"
+  },
+  "expectedSuccessfulMsg": "Thank you for your order!"
+}
